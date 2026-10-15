@@ -1,0 +1,5 @@
+# Python 编译产物
+build/
+dist/
+__pycache__/
+*.pyc
