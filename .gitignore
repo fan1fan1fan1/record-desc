@@ -3,3 +3,15 @@ build/
 dist/
 __pycache__/
 *.pyc
+
+# 打包配置/构建产物
+*.spec
+*.exe
+
+# 日志
+log.txt
+*.log
+
+# 本地配置
+countdown_config.json
+config/
